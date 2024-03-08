@@ -11,5 +11,8 @@ Our analysis shows that these domains can be distinguished based on various comp
 and suggests a consistent complexity scale between them. We identify the distinguishing properties and their potential benefits for NLP tasks.
 Additionally, we provide domain-balanced and deduplicated versions of Carolina for future research.
 
+## Dataset
+[Download Carol·B and Carol·(D+B) datasets.](https://github.com/marianasturzeneker/SubcorporaCarolina)
+
 ## Citation information
 Paper accepted to be published at [Propor 2024](https://propor2024.citius.gal/index.php/accepted-papers/).
